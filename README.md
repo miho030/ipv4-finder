@@ -17,6 +17,6 @@ Next Version is will be "find and print ipv4 addr from other network hosts."; (n
 
 This Progrma is made By Nicht. Lee Joon Sung
 
-(C) 2018 copyright by nicht, Kbu 1822021
+(C) 2018 copyright by nicht, 1822021
 
 """
